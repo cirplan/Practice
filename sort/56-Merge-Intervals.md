@@ -21,7 +21,7 @@
 
 > 代码
 
-```
+```js
 /**
  * @param {number[][]} intervals
  * @return {number[][]}
@@ -59,6 +59,7 @@ var merge = function (intervals) {
 > 执行
 
 用时：104 ms, 在所有 JavaScript 提交中击败了28.64%的用户
+
 内存消耗：40.3 MB, 在所有 JavaScript 提交中击败了22.22%的用户
 
 > 其他解法
