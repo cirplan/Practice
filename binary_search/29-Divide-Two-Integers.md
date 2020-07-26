@@ -40,11 +40,11 @@
 
 ```
 dividend = 15, divisor = 3, result = 0, k = 1
-dividend = 15 - 3 = 12, divisor = 3 * 2 = 6, result = 1, k = 2
-dividend = 12 - 6 = 6, divisor = 6 * 2 = 12, result = 3, k = 4
-因为 6 > 3，所以 divisor = 3，k = 1
-dividend = 6 - 3 = 3, divisor = 3, result = 4, k = 2
-因为 3 >= 3，所以 divisor = 3，k = 1
+dividend = 15 - 3 = 12, divisor = 3 * 2 = 6, result = 1, k = 1 * 2 = 2
+dividend = 12 - 6 = 6, divisor = 6 * 2 = 12, result = 3, k = 2 * 2 = 4
+因为 6 < 12 && 6 > 3，所以 divisor = 3，k = 1
+dividend = 6 - 3 = 3, divisor = 3 * 2 = 6, result = 4, k = 2
+因为 3 < 6 && 3 >= 3，所以 divisor = 3，k = 1
 dividend = 3 - 3 = 0, divisor = 3, result = 5, k = 2
 ```
 
@@ -102,7 +102,7 @@ var divide = function (dividend, divisor) {
 
 > 复杂度分析
 
-明显的二分法，时间复杂度为O(logN)。
+二分法，时间复杂度为O(logN)。
 空间复杂度为O(1)。
 
 > 执行
