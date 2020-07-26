@@ -9,3 +9,4 @@
 > 二分查找
 
 [35-Search-Insert-Position](/binary_search/35-Search-Insert-Position.md)
+[29-Divide-Two-Integers](/binary_search/29-Divide-Two-Integers.md)

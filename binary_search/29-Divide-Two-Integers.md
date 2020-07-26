@@ -50,7 +50,6 @@ dividend = 3 - 3 = 0, divisor = 3, result = 5, k = 2
 
 但是这里还有个巨坑，就是边界问题。
 
-
 > 代码
 
 ```js
@@ -61,6 +60,7 @@ dividend = 3 - 3 = 0, divisor = 3, result = 5, k = 2
  */
 var divide = function (dividend, divisor) {
     const maxInt = Math.pow(2, 31);
+    // 判断边界
     if (dividend === -maxInt && divisor == -1) return maxInt - 1;
 
     if (divisor === 1) return dividend;
@@ -75,6 +75,7 @@ var divide = function (dividend, divisor) {
     let result = 0;
     let k = 1;
     const maxNum = maxInt - 1;
+    // 防溢出判断值
     const partOfMaxNum = maxNum >> 1;
 
     while (true) {
