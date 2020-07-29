@@ -16,3 +16,5 @@
 
 [81-Search-in-Rotated-Sorted-Array-II](/binary_search/81-Search-in-Rotated-Sorted-Array-II.md)
 
+[162-Find-Peak-Element](/binary_search/162-Find-Peak-Element.md)
+
