@@ -25,3 +25,8 @@
 [731-My-Calendar-II](/ordered_map/731-My-Calendar-II.md)
 
 [846-Hand-of-Straights](/ordered_map/846-Hand-of-Straights.md)
+
+> 哈希表
+
+[136-Single-Number](/hash_table/136-Single-Number.md)
+
