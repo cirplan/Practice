@@ -77,7 +77,7 @@ var isNStraightHand = function (hand, W) {
 
 > 复杂度分析
 
-时间复杂度：排序用O(logN)，然后再对数组循环O(N)，所以为O(logN + N)。
+时间复杂度：排序用O(NlogN)，然后再对数组循环O(N)，所以为O(NlogN + N)。
 
 空间复杂度：O(N)。
 

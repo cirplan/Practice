@@ -30,3 +30,5 @@
 
 [136-Single-Number](/hash_table/136-Single-Number.md)
 
+[202-Happy-Number](/hash_table/202-Happy-Number.md)
+
