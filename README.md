@@ -32,3 +32,5 @@
 
 [202-Happy-Number](/hash_table/202-Happy-Number.md)
 
+[36-Valid-Sudoku](/hash_table/36-Valid-Sudoku.md)
+
