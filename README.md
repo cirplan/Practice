@@ -34,3 +34,4 @@
 
 [36-Valid-Sudoku](/hash_table/36-Valid-Sudoku.md)
 
+[30-Substring-with-Concatenation-of-All-Words](/hash_table/30-Substring-with-Concatenation-of-All-Words.md)
