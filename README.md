@@ -39,3 +39,5 @@
 > 树
 
 [100-Same-Tree](/tree/100-Same-Tree.md)
+
+[104-Maximum-Depth-of-Binary-Tree](/tree/104-Maximum-Depth-of-Binary-Tree.md)
