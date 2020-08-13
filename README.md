@@ -41,3 +41,6 @@
 [100-Same-Tree](/tree/100-Same-Tree.md)
 
 [104-Maximum-Depth-of-Binary-Tree](/tree/104-Maximum-Depth-of-Binary-Tree.md)
+
+[96-Unique-Binary-Search-Trees](/tree/96-Unique-Binary-Search-Trees.md)
+
