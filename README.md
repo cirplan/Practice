@@ -52,4 +52,4 @@
 
 [83-Remove-Duplicates-from-Sorted-List](/linked_list/83-Remove-Duplicates-from-Sorted-List.md)
 
-[141-Linked-List-Cycle](/linked_list/141-Linked-List-Cycle.md.md)s
+[141-Linked-List-Cycle](/linked_list/141-Linked-List-Cycle.md)
