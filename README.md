@@ -55,3 +55,5 @@
 [141-Linked-List-Cycle](/linked_list/141-Linked-List-Cycle.md)
 
 [92-reverse-linked-list-ii](/linked_list/92-reverse-linked-list-ii.md)
+
+[61-Rotate-List](/linked_list/61-Rotate-List.md)
