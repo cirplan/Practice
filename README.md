@@ -62,4 +62,4 @@
 
 [82-Remove-Duplicates-from-Sorted-List-II](/linked_list/82-Remove-Duplicates-from-Sorted-List-II.md)
 
-[142-linked-list-cycle-ii/](/linked_list/142-linked-list-cycle-ii.md)
+[142-linked-list-cycle-ii](/linked_list/142-linked-list-cycle-ii.md)
