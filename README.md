@@ -69,3 +69,5 @@
 [155-Min-Stack](/stack/155-Min-Stack.md)
 
 [232-Implement-Queue-using-Stacks](/stack/232-Implement-Queue-using-Stacks.md)
+
+[150-Evaluate-Reverse-Polish-Notation](/stack/150-Evaluate-Reverse-Polish-Notation.md)
