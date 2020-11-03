@@ -67,3 +67,5 @@
 > 栈
 
 [155-Min-Stack](/stack/155-Min-Stack.md)
+
+[232-Implement-Queue-using-Stacks](/stack/232-Implement-Queue-using-Stacks.md)
