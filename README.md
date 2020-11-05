@@ -71,3 +71,5 @@
 [232-Implement-Queue-using-Stacks](/stack/232-Implement-Queue-using-Stacks.md)
 
 [150-Evaluate-Reverse-Polish-Notation](/stack/150-Evaluate-Reverse-Polish-Notation.md)
+
+[151-reverse-words-in-a-string](/stack/151-reverse-words-in-a-string.md)
