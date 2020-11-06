@@ -74,4 +74,4 @@
 
 [151-reverse-words-in-a-string](/stack/151-reverse-words-in-a-string.md)
 
-[856-score-of-parentheses][/stack/856-score-of-parentheses.md]
+[856-score-of-parentheses](/stack/856-score-of-parentheses.md)
