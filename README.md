@@ -77,3 +77,5 @@
 [856-score-of-parentheses](/stack/856-score-of-parentheses.md)
 
 [394-Decode-String](/stack/394-Decode-String.md)
+
+[394-longest-valid-parentheses](/stack/394-longest-valid-parentheses.md)
