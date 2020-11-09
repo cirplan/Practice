@@ -82,4 +82,4 @@
 
 > 队列
 
-[933-Number-of-Recent-Calls.md](/stack/933-Number-of-Recent-Calls.md)
+[933-Number-of-Recent-Calls](/queue/933-Number-of-Recent-Calls.md)
