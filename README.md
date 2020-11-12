@@ -87,3 +87,5 @@
 [641-Design-Circular-Deque](/queue/641-Design-Circular-Deque.md)
 
 [621-Task-Scheduler](/queue/621-Task-Scheduler.md)
+
+[622-Design-Circular-Queue](/queue/622-Design-Circular-Queue.md)
