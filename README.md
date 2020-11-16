@@ -2,6 +2,8 @@
 
 > 排序
 
+[242-Valid-Anagram](/sort/242-Valid-Anagram.md)
+
 [56-Merge-Intervals](/sort/56-Merge-Intervals.md)
 
 [57-Insert-Interval](/sort/57-Insert-Interval.md)
