@@ -1,13 +1,5 @@
 # Leetcode
 
-> 排序
-
-[242-Valid-Anagram](/sort/242-Valid-Anagram.md)
-
-[56-Merge-Intervals](/sort/56-Merge-Intervals.md)
-
-[57-Insert-Interval](/sort/57-Insert-Interval.md)
-
 > 二分查找
 
 [35-Search-Insert-Position](/binary_search/35-Search-Insert-Position.md)
@@ -97,3 +89,13 @@
 [363-Max-Sum-of-Rectangle-No-Larger-Than-K](/queue/363-Max-Sum-of-Rectangle-No-Larger-Than-K.md)
 
 [862-Shortest-Subarray-with-Sum-at-Least-K](/queue/862-Shortest-Subarray-with-Sum-at-Least-K.md)
+
+> 排序
+
+[242-Valid-Anagram](/sort/242-Valid-Anagram.md)
+
+[349-Intersection-of-Two-Arrays](/sort/349-Intersection-of-Two-Arrays.md)
+
+[56-Merge-Intervals](/sort/56-Merge-Intervals.md)
+
+[57-Insert-Interval](/sort/57-Insert-Interval.md)
