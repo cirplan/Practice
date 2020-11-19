@@ -98,6 +98,8 @@
 
 [179-Largest-Number](/sort/179-Largest-Number.md)
 
+[148-Sort-List](/sort/148-Sort-List.md)
+
 [56-Merge-Intervals](/sort/56-Merge-Intervals.md)
 
 [57-Insert-Interval](/sort/57-Insert-Interval.md)
