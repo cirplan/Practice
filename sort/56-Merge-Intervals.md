@@ -57,15 +57,12 @@ var merge = function (intervals) {
 
 > 复杂度分析
 
-排序的时间复杂度O(nlogn)，再循环一次O(n)，所以为O(nlogn + n) = O(nlogn)。
-需要使用额外数组存储，空间复杂度为O(n)。
+时间复杂度：O(nlogn)。排序的时间复杂度O(nlogn)，再循环一次O(n)，所以为O(nlogn + n) = O(nlogn)。
+
+空间复杂度：O(N)。
 
 > 执行
 
 用时：104 ms, 在所有 JavaScript 提交中击败了28.64%的用户
 
 内存消耗：40.3 MB, 在所有 JavaScript 提交中击败了22.22%的用户
-
-> 其他解法
-
-也可以把每一项依次放到数组里，每次都拿数组最后一项和下一项判断。
