@@ -100,6 +100,8 @@
 
 [148-Sort-List](/sort/148-Sort-List.md)
 
+[347-Top-K-Frequent-Elements](/sort/347-Top-K-Frequent-Elements.md)
+
 [56-Merge-Intervals](/sort/56-Merge-Intervals.md)
 
 [57-Insert-Interval](/sort/57-Insert-Interval.md)
