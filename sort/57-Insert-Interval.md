@@ -125,7 +125,3 @@ function hasMixed(n1, n2) {
 执行用时：84 ms, 在所有 JavaScript 提交中击败了62.16%的用户。
 
 内存消耗：40.7 MB, 在所有 JavaScript 提交中击败了100.00%的用户。
-
-> 关联
-
-贪心算法
