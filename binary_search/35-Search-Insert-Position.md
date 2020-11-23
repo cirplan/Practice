@@ -38,7 +38,7 @@
 
 * 使用双指针，设置头 low 、尾 height 
 * 当 low <= height 的时候执行循环
-* 算出中心点 pos 下标
+* 算出中心点 pos 下标，low + Math.floor((height - low) / 2)
 * 判断中点项和目标项是否一致，是则直接返回中点。
 * 如果中点项大于目标项，则 height = pos - 1
 * 如果中点项小于目标项，则 low = pos + 1
@@ -77,12 +77,12 @@ var searchInsert = function(nums, target) {
 
 > 复杂度分析
 
-二分查找，时间复杂度为O(logN)。
+时间复杂度 : O(logN)。
 
-使用了两个变量，空间复杂度为O(1)。
+空间复杂度 : O(1)。
 
 > 执行
 
-执行用时：88 ms, 在所有 JavaScript 提交中击败了25.82%的用户
+执行用时：84 ms, 在所有 JavaScript 提交中击败了64.38%的用户
 
-内存消耗：37.8 MB, 在所有 JavaScript 提交中击败了8.70%的用户
+内存消耗：39 MB, 在所有 JavaScript 提交中击败了8.46%的用户
