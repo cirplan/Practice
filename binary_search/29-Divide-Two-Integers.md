@@ -102,8 +102,9 @@ var divide = function (dividend, divisor) {
 
 > 复杂度分析
 
-二分法，时间复杂度为O(logN)。
-空间复杂度为O(1)。
+时间复杂度 : 二分法，时间复杂度为O(logN)。。
+
+空间复杂度 : O(1)。
 
 > 执行
 
