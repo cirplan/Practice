@@ -45,46 +45,46 @@ target = 13
  * @param {number} target
  * @return {boolean}
  */
-var searchMatrix = function (matrix, target) {
-    if (!matrix.length || !matrix[0].length) return false;
-
-    let m = matrix.length;
-    let n = matrix[0].length;
-    const size = m * n;
-
-    let low = 0;
-    let height = size;
-
-    while (low <= height) {
-        const mid = low + Math.floor((height - low) / 2);
-        const _m = Math.floor(mid / n);
-        const _n = mid % n;
-        if ((_m > m - 1) || (_n > n - 1)) return false;
-        const val = matrix[_m][_n];
-        
-        if (val === target) {
-            return true;
-        } else if (val > target) {
-            height = mid - 1;
-        } else {
-            low = mid + 1;
-        }
-    }
-
+var searchMatrix = function(matrix, target) {
+  if (!matrix.length) {
     return false;
+  }
+
+  const row = matrix.length;
+  const col = matrix[0].length;
+  const total = row * col;
+  let left = 0;
+  let right = total - 1;
+
+  while (left <= right) {
+    const mid = left + Math.floor((right - left) / 2);
+    const _row = parseInt(mid / col);
+    const _col = mid % col;
+    const _val = matrix[_row][_col];
+    if (_val === target) {
+      return true;
+    } else if (_val > target) {
+      right = mid - 1;
+    } else {
+      left = mid + 1;
+    }
+  }
+
+  return false;
 };
 ```
 
 > 复杂度分析
 
-二分法，时间复杂度是O(log(mn))。
+时间复杂度 : O(log(mn))。
 
-空间复杂度O(1)。
+空间复杂度 : O(1)。
 
 > 执行
 
-执行用时：84 ms, 在所有 JavaScript 提交中击败了30.19%的用户。
+执行用时：84 ms, 在所有 JavaScript 提交中击败了69.35%的用户
 
-内存消耗：38.1 MB, 在所有 JavaScript 提交中击败了50.00%的用户。
+内存消耗：39.2 MB, 在所有 JavaScript 提交中击败了14.64%的用户
+
 
 
