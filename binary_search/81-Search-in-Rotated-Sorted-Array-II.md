@@ -49,32 +49,29 @@ nums = [1,1,2,1]， 这种判断不出排序关系，只能从低到高开始遍
  */
 var search = function (nums, target) {
     const len = nums.length;
+    let left = 0;
+    let right = len - 1;
 
-    let low = 0;
-    let height = len - 1;
+    while (left <= right) {
+        const mid = left + Math.floor((right - left) / 2);
+        const val = nums[mid];
+        const valRight = nums[right];
+        const valLeft = nums[left];
 
-    while (low <= height) {
-        const pos = Math.floor((low + height) / 2);
-        const val = nums[pos];
-        const lowVal = nums[low];
-        const heightVal = nums[height];
-
-        if (val === target || lowVal === target || heightVal === target) {
+        if (val === target || valLeft === target || valRight === target) {
             return true;
-        } else if (val < heightVal) {
-            if (target > val && target < heightVal) {
-                low = pos + 1;
+        } else if (val > target) {
+            if (target > valLeft) {
+                right = mid - 1;
             } else {
-                height = pos - 1;
-            }
-        } else if (lowVal < val) {
-            if (target > lowVal && target < val) {
-                height = pos - 1;
-            } else {
-                low = pos + 1;
+                right--;
             }
         } else {
-            low++;
+            if (target < valRight) {
+                left = mid + 1;
+            } else {
+                left++;
+            }
         }
     }
 
@@ -84,15 +81,15 @@ var search = function (nums, target) {
 
 > 复杂度分析
 
-当数组顺序二分法刚好适用，时间复杂度为O(logn)。极端情况下为O(n)。
+时间复杂度 : O(logn)。极端情况下为O(n)
 
-空间复杂度为O(1)。
+空间复杂度 : O(1)。
 
 > 执行
 
-执行用时：100 ms, 在所有 JavaScript 提交中击败了8.89%的用户。
+执行用时：84 ms, 在所有 JavaScript 提交中击败了80.39%的用户
 
-内存消耗：38 MB, 在所有 JavaScript 提交中击败了100.00%的用户。
+内存消耗：39.8 MB, 在所有 JavaScript 提交中击败了5.55%的用户
 
 > 算法
 
