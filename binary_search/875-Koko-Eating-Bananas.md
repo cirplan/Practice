@@ -52,52 +52,43 @@ piles = [3,6,7,11]， H = 8，piles.length > H，先找出最大值11，则 0 < 
  */
 var minEatingSpeed = function (piles, H) {
   const len = piles.length;
-  let max = 0;
+  piles.sort((a, b) => a - b);
 
-  for (let i = 0; i < piles.length; i++) {
-    const pile = piles[i];
-    if (max < pile) {
-      max = pile;
+  let left = 0;
+  let right = piles[len - 1];
+  let prevVal;
+  while (left <= right) {
+    const val = left + Math.floor((right - left) / 2);
+    let result = 0;
+    for (let i = 0; i < len; i++) {
+      result += Math.ceil(piles[i] / val);
     }
-  }
-
-  if (H === len) return max;
-
-  let low = 0;
-  let height = max;
-  let k = max;
-
-  while (low <= height) {
-    const _k = Math.floor((low + height) / 2);
-    const _h = piles.reduce((total, pile) => {
-      return total + Math.ceil(pile / _k);
-    }, 0);
-
-    if (_h > H) {
-      low = _k + 1;
+    if (result <= H) {
+      if (!prevVal || prevVal > val) {
+       prevVal = val;
+       right =  val - 1;
+      } else {
+        return prevVal;
+      }
     } else {
-      k = _k;
-      height = _k - 1;
+      left = val + 1;
     }
   }
 
-  return k;
+  return prevVal;
 };
 ```
 
 > 复杂度分析
 
-先执行了循环，为 O(N)，然后使用了二分法，时间复杂度为 O(N + logN)。
+时间复杂度：O(logN)。
 
-空间复杂度为 O(1)。
+空间复杂度：O(1)。
 
 > 执行
 
-执行用时：116 ms, 在所有 JavaScript 提交中击败了59.68%的用户。
+执行用时：124 ms, 在所有 JavaScript 提交中击败了46.95%的用户
 
-内存消耗：41.1 MB, 在所有 JavaScript 提交中击败了100.00%的用户。
+内存消耗：41.6 MB, 在所有 JavaScript 提交中击败了23.38%的用户
 
-> 算法
-
-二分法
 
