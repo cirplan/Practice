@@ -40,43 +40,25 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findPeakElement = function (nums) {
-  if (!nums.length) return -1;
-  else if (nums.length === 1) return 0;
-
-  let low = 0;
-  let height = nums.length - 1;
-
-  while (low <= height) {
-    const pos =
-      low + Math.floor((height - low) / 2);
-    const val = nums[pos];
-
-    if (pos === 0) {
-      if (val > nums[pos + 1]) {
-        return pos;
-      } else {
-        low = pos + 1;
-      }
-    } else if (pos === nums.length - 1) {
-      if (val > nums[pos - 1]) {
-        return pos;
-      } else {
-        height = height - 1;
-      }
-    } else {
-      if (val > nums[pos - 1]) {
-        // 峰值
-        if (val > nums[pos + 1]) {
-          return pos;
-        } else {
-          low = pos + 1;
+var findPeakElement = function(nums) {
+    let n = nums.length;
+    let l = 0, r = n - 1;
+    while (l <= n) {
+        let mid = l + Math.floor((r - l) / 2);
+        let left = nums[mid - 1], right = nums[mid + 1];
+        if (left === undefined) { left = -Infinity; }
+        if (right === undefined) { right = -Infinity; }
+        if (nums[mid] > left && nums[mid] > right) {
+            return mid;
         }
-      } else {
-        height = pos - 1;
-      }
+        if (nums[mid] < left) {
+            r = mid - 1;
+        }
+        else {
+            l = mid + 1;
+        }
     }
-  }
+    return NaN;
 };
 ```
 
@@ -88,9 +70,9 @@ var findPeakElement = function (nums) {
 
 > 执行
 
-执行用时：88 ms, 在所有 JavaScript 提交中击败了14.55%的用户。
+执行用时：80 ms, 在所有 JavaScript 提交中击败了76.57%的用户
 
-内存消耗：37.7 MB, 在所有 JavaScript 提交中击败了12.50%的用户。
+内存消耗：38 MB, 在所有 JavaScript 提交中击败了24.76%的用户
 
 > 算法
 
