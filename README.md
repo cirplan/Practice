@@ -105,3 +105,5 @@
 [162-Find-Peak-Element](/binary_search/162-Find-Peak-Element.md)
 
 [875-Koko-Eating-Bananas](/binary_search/875-Koko-Eating-Bananas.md)
+
+[174-Dungeon-Game](/binary_search/174-Dungeon-Game.md)
