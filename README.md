@@ -1,11 +1,5 @@
 # Leetcode
 
-> ordered map
-
-[731-My-Calendar-II](/ordered_map/731-My-Calendar-II.md)
-
-[846-Hand-of-Straights](/ordered_map/846-Hand-of-Straights.md)
-
 > 哈希表
 
 [136-Single-Number](/hash_table/136-Single-Number.md)
@@ -107,3 +101,9 @@
 [875-Koko-Eating-Bananas](/binary_search/875-Koko-Eating-Bananas.md)
 
 [174-Dungeon-Game](/binary_search/174-Dungeon-Game.md)
+
+> ordered map
+
+[846-Hand-of-Straights](/ordered_map/846-Hand-of-Straights.md)
+
+[731-My-Calendar-II](/ordered_map/731-My-Calendar-II.md)
