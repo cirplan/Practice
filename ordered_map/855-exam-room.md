@@ -9,7 +9,7 @@
 返回 ExamRoom(int N) 类，它有两个公开的函数：其中，函数 ExamRoom.seat() 会返回一个 int （整型数据），代表学生坐的位置；函数 ExamRoom.leave(int p) 代表坐在座位 p 上的学生现在离开了考场。每次调用 ExamRoom.leave(p) 时都保证有学生坐在座位 p 上。
 
 示例：
-
+```
 输入：["ExamRoom","seat","seat","seat","seat","leave","seat"], [[10],[],[],[],[],[4],[]]
 输出：[null,0,9,4,2,null,5]
 解释：
@@ -19,8 +19,9 @@ seat() -> 9，学生最后坐在 9 号座位上。
 seat() -> 4，学生最后坐在 4 号座位上。
 seat() -> 2，学生最后坐在 2 号座位上。
 leave(4) -> null
-seat() -> 5，学生最后坐在 5 号座位上。
- 
+seat() -> 5，学生最后坐在 5 号座位上。 
+```
+
 提示：
 
 1 <= N <= 10^9
@@ -110,7 +111,6 @@ ExamRoom.prototype.leave = function (p) {
 ```
 
 > 复杂度分析
-
 
 时间复杂度：都是O(N)。
 
