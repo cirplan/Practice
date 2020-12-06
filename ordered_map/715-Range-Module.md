@@ -23,13 +23,14 @@ queryRange(16, 17): true （尽管执行了删除操作，区间 [16, 17) 中的
 在单个测试用例中，对 addRange 的调用总数不超过 1000 次。
 在单个测试用例中，对  queryRange 的调用总数不超过 5000 次。
 在单个测试用例中，对 removeRange 的调用总数不超过 1000 次。
-``` 
+```
 
 > 思路
 
 没有思路，直接看的题解。（此处题解忽略
 
 > 代码
+
 
 ```js
 function isEven(val) {
@@ -141,6 +142,7 @@ RangeModule.prototype.removeRange = function (left, right) {
  * var param_2 = obj.queryRange(left,right)
  * obj.removeRange(left,right)
  */
+
 ```
 
 > 复杂度分析
