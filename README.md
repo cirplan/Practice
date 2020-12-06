@@ -116,3 +116,5 @@
 
 [699-Falling-Squares](/ordered_map/699-Falling-Squares.md)
 
+[715-Range-Module](/ordered_map/715-Range-Module.md)
+
