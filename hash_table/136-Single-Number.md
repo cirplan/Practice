@@ -55,8 +55,9 @@ var singleNumber = function (nums) {
 
 > 执行
 
-执行用时：84 ms, 在所有 JavaScript 提交中击败了46.13%的用户。
+执行用时：92 ms, 在所有 JavaScript 提交中击败了63.41%的用户
 
-内存消耗：40.3 MB, 在所有 JavaScript 提交中击败了27.20%的用户。
+内存消耗：41 MB, 在所有 JavaScript 提交中击败了21.75%的用户
+
 
 

@@ -1,15 +1,5 @@
 # Leetcode
 
-> 哈希表
-
-[136-Single-Number](/hash_table/136-Single-Number.md)
-
-[202-Happy-Number](/hash_table/202-Happy-Number.md)
-
-[36-Valid-Sudoku](/hash_table/36-Valid-Sudoku.md)
-
-[30-Substring-with-Concatenation-of-All-Words](/hash_table/30-Substring-with-Concatenation-of-All-Words.md)
-
 > 树
 
 [100-Same-Tree](/tree/100-Same-Tree.md)
@@ -118,3 +108,12 @@
 
 [715-Range-Module](/ordered_map/715-Range-Module.md)
 
+> 哈希表
+
+[136-Single-Number](/hash_table/136-Single-Number.md)
+
+[202-Happy-Number](/hash_table/202-Happy-Number.md)
+
+[36-Valid-Sudoku](/hash_table/36-Valid-Sudoku.md)
+
+[30-Substring-with-Concatenation-of-All-Words](/hash_table/30-Substring-with-Concatenation-of-All-Words.md)
