@@ -54,6 +54,37 @@ var isHappy = function (n) {
 };
 ```
 
+解法二：使用快慢指针
+
+```js
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isHappy = function (n) {
+    let slow = n;
+    let fast = n;
+    do {
+        slow = bitSquareSum(slow);
+        fast = bitSquareSum(fast);
+        fast = bitSquareSum(fast);
+    } while (slow != fast && fast !== 1);
+
+    return slow === 1 || fast === 1;
+};
+
+
+function bitSquareSum(n) {
+    let sum = 0;
+    while (n > 0) {
+        let bit = n % 10;
+        sum += bit * bit;
+        n = parseInt(n / 10);
+    }
+    return sum;
+}
+```
+
 > 复杂度分析
 
 时间复杂度：当计算一个数的下一个值，要循环数的长度K次，时间复杂度为O(logn)。则整个的时间为O(logn)+O(loglogn)+O(logloglogn)... = O(logn)。
