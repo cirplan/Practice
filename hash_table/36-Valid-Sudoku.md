@@ -78,7 +78,7 @@
 
 第0行0列5，记录 rowMap[05] = 1， colMap[05] = 1， sudokuMap[005] = 1
 
-第0行1列3，记录 rowMap[03] = 1， colMap[13] = 1， sudokuMap[003] = 1
+第0行1列3，记录 rowMap[03] = 1， colMap[13] = 1， sudokuMap[013] = 1
 
 ...
 
