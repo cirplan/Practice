@@ -118,4 +118,6 @@
 
 [49-Group-Anagrams](/hash_table/49-Group-Anagrams.md)
 
+[187-Repeated-DNA-Sequences](/hash_table/187-Repeated-DNA-Sequences.md)
+
 [30-Substring-with-Concatenation-of-All-Words](/hash_table/30-Substring-with-Concatenation-of-All-Words.md)
