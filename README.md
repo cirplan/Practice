@@ -123,3 +123,6 @@
 [332-Reconstruct-Itinerary](/hash_table/332-Reconstruct-Itinerary.md)
 
 [30-Substring-with-Concatenation-of-All-Words](/hash_table/30-Substring-with-Concatenation-of-All-Words.md)
+
+[37-Sudoku-Solver](/hash_table/37-Sudoku-Solver.md)
+
