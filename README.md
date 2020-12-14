@@ -1,13 +1,5 @@
 # Leetcode
 
-> 树
-
-[100-Same-Tree](/tree/100-Same-Tree.md)
-
-[104-Maximum-Depth-of-Binary-Tree](/tree/104-Maximum-Depth-of-Binary-Tree.md)
-
-[96-Unique-Binary-Search-Trees](/tree/96-Unique-Binary-Search-Trees.md)
-
 > 动态规划
 
 [53-maximum-subarray](/dynamic_programming/53-maximum-subarray.md)
@@ -126,3 +118,10 @@
 
 [37-Sudoku-Solver](/hash_table/37-Sudoku-Solver.md)
 
+> 树
+
+[100-Same-Tree](/tree/100-Same-Tree.md)
+
+[104-Maximum-Depth-of-Binary-Tree](/tree/104-Maximum-Depth-of-Binary-Tree.md)
+
+[96-Unique-Binary-Search-Trees](/tree/96-Unique-Binary-Search-Trees.md)
