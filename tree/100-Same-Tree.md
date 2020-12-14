@@ -96,3 +96,6 @@ var isSameTree = function(p, q) {
 > 算法
 
 递归
+
+深度优先搜索 与 广度优先搜索
+
