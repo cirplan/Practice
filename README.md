@@ -124,4 +124,6 @@
 
 [104-Maximum-Depth-of-Binary-Tree](/tree/104-Maximum-Depth-of-Binary-Tree.md)
 
+[95-unique-binary-search-trees-ii](/tree/95-unique-binary-search-trees-ii.md)
+
 [96-Unique-Binary-Search-Trees](/tree/96-Unique-Binary-Search-Trees.md)
