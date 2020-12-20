@@ -130,4 +130,7 @@
 
 [98-validate-binary-search-tree](/tree/98-validate-binary-search-tree.md)
 
-[99-Recover-Binary-Search-Tree](/tree/99-Recover-Binary-Search-Tree.md)<sup style="color:red;">?</sup>
+[99-Recover-Binary-Search-Tree](/tree/99-Recover-Binary-Search-Tree.md)<sup>?</sup>
+
+[124-binary-tree-maximum-path-sum](/tree/124-binary-tree-maximum-path-sum.md)
+
