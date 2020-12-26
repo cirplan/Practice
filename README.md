@@ -143,3 +143,6 @@
 [222-count-complete-tree-nodes](/tree/222-count-complete-tree-nodes.md)
 
 [145-binary-tree-postorder-traversal](/tree/145-binary-tree-postorder-traversal.md)
+
+[297-serialize-and-deserialize-binary-tree](/tree/297-serialize-and-deserialize-binary-tree.md)
+
