@@ -146,3 +146,5 @@
 
 [297-serialize-and-deserialize-binary-tree](/tree/297-serialize-and-deserialize-binary-tree.md)
 
+[685-redundant-connection-ii](/tree/685-redundant-connection-ii.md)
+
