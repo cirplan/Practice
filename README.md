@@ -1,9 +1,5 @@
 # Leetcode
 
-> 动态规划
-
-[53-maximum-subarray](/dynamic_programming/53-maximum-subarray.md)
-
 > 链表
 
 [83-Remove-Duplicates-from-Sorted-List](/linked_list/83-Remove-Duplicates-from-Sorted-List.md)
@@ -148,3 +144,6 @@
 
 [685-redundant-connection-ii](/tree/685-redundant-connection-ii.md)
 
+> 动态规划
+
+[53-maximum-subarray](/dynamic_programming/53-maximum-subarray.md)
