@@ -80,3 +80,7 @@ var numDecodings = function (s) {
 空间复杂度：O(1)。
 
 > 执行
+
+执行用时：92 ms, 在所有 JavaScript 提交中击败了48.16%的用户
+
+内存消耗：38.9 MB, 在所有 JavaScript 提交中击败了80.05%的用户
