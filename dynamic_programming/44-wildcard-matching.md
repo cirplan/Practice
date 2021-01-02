@@ -94,9 +94,9 @@ const isMatch = (s, p) => {
 
 > 复杂度分析
 
-时间复杂度：O(nm)。
+时间复杂度：O(sLen*pLen)。
 
-空间复杂度：O(m)。
+空间复杂度：O(pLen)。
 
 > 执行
 
