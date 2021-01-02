@@ -155,3 +155,5 @@
 [63-unique-paths-ii](/dynamic_programming/63-unique-paths-ii.md)
 
 [91-decode-ways](/dynamic_programming/91-decode-ways.md)
+
+[10-regular-expression-matching](/dynamic_programming/10-regular-expression-matching.md)
