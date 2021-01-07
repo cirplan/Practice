@@ -167,3 +167,5 @@
 [39-combination-sum](/backtracking/39-combination-sum.md)
 
 [40-combination-sum-ii](/backtracking/40-combination-sum-ii.md)
+
+[46-permutations](/backtracking/46-permutations.md)
