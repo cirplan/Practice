@@ -173,3 +173,5 @@
 [47-permutations-ii](/backtracking/47-permutations-ii.md)
 
 [51-n-queens](/backtracking/51-n-queens.md)
+
+[52-n-queens-ii](/backtracking/52-n-queens-ii.md)
