@@ -175,3 +175,7 @@
 [51-n-queens](/backtracking/51-n-queens.md)
 
 [52-n-queens-ii](/backtracking/52-n-queens-ii.md)
+
+> 数组
+
+[26-remove-duplicates-from-sorted-array](/array/26-remove-duplicates-from-sorted-array.md)
