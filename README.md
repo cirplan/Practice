@@ -185,3 +185,7 @@
 [88-merge-sorted-array](/array/88-merge-sorted-array.md)
 
 [122-best-time-to-buy-and-sell-stock](/array/122-best-time-to-buy-and-sell-stock.md)
+
+> 字符串
+
+[38-Count-and-Say](/string/38-Count-and-Say.md)
