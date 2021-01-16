@@ -186,6 +186,8 @@
 
 [122-best-time-to-buy-and-sell-stock](/array/122-best-time-to-buy-and-sell-stock.md)
 
+[169-Majority-Element](/array/169-Majority-Element.md)
+
 > 字符串
 
 [38-Count-and-Say](/string/38-Count-and-Say.md)
