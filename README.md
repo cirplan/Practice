@@ -193,3 +193,5 @@
 > 字符串
 
 [38-Count-and-Say](/string/38-Count-and-Say.md)
+
+[8-string-to-integer-atoi](/string/8-string-to-integer-atoi.md)
