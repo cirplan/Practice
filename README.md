@@ -201,3 +201,5 @@
 [8-string-to-integer-atoi](/string/8-string-to-integer-atoi.md)
 
 [5-longest-palindromic-substring](/string/5-longest-palindromic-substring.md)
+
+[43-multiply-strings](/string/43-multiply-strings.md)
