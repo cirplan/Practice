@@ -203,3 +203,7 @@
 [5-longest-palindromic-substring](/string/5-longest-palindromic-substring.md)
 
 [43-multiply-strings](/string/43-multiply-strings.md)
+
+> 位运算
+
+[231-power-of-two](/bit/231-power-of-two.md)
