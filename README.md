@@ -194,6 +194,8 @@
 
 [16-3sum-closest](/array/16-3sum-closest.md)
 
+[33-Search-in-Rotated-Sorted-Array](/array/33-Search-in-Rotated-Sorted-Array.md)
+
 > 字符串
 
 [38-Count-and-Say](/string/38-Count-and-Say.md)
