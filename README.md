@@ -209,3 +209,7 @@
 > 位运算
 
 [231-power-of-two](/bit/231-power-of-two.md)
+
+> 剑指OFFER
+
+[03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof](/O/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
