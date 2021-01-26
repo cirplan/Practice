@@ -212,4 +212,6 @@
 
 > 剑指OFFER
 
-[03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof](/O/shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+[03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof](/O/03-shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+
+[04-er-wei-shu-zu-zhong-de-cha-zhao-lcof](/O/04-er-wei-shu-zu-zhong-de-cha-zhao-lcof.md)
