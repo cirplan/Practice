@@ -219,3 +219,5 @@
 [05-ti-huan-kong-ge-lcof](/O/05-ti-huan-kong-ge-lcof.md)
 
 [06-cong-wei-dao-tou-da-yin-lian-biao-lcof](/O/06-cong-wei-dao-tou-da-yin-lian-biao-lcof.md)
+
+[07-zhong-jian-er-cha-shu-lcof](/O/07-zhong-jian-er-cha-shu-lcof.md)
