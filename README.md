@@ -221,3 +221,5 @@
 [06-cong-wei-dao-tou-da-yin-lian-biao-lcof](/O/06-cong-wei-dao-tou-da-yin-lian-biao-lcof.md)
 
 [07-zhong-jian-er-cha-shu-lcof](/O/07-zhong-jian-er-cha-shu-lcof.md)
+
+[09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof](/O/09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
