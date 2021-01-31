@@ -223,3 +223,5 @@
 [07-zhong-jian-er-cha-shu-lcof](/O/07-zhong-jian-er-cha-shu-lcof.md)
 
 [09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof](/O/09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md)
+
+[10-fei-bo-na-qi-shu-lie-lcof](/O/10-fei-bo-na-qi-shu-lie-lcof.md)
