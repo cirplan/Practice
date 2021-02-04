@@ -231,3 +231,5 @@
 [15-er-jin-zhi-zhong-1de-ge-shu-lcof](/O/15-er-jin-zhi-zhong-1de-ge-shu-lcof.md)
 
 [16-shu-zhi-de-zheng-shu-ci-fang-lcof](/O/16-shu-zhi-de-zheng-shu-ci-fang-lcof.md)
+
+[17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof](/O/17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
