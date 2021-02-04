@@ -233,3 +233,5 @@
 [16-shu-zhi-de-zheng-shu-ci-fang-lcof](/O/16-shu-zhi-de-zheng-shu-ci-fang-lcof.md)
 
 [17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof](/O/17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof.md)
+
+[18-shan-chu-lian-biao-de-jie-dian-lcof](/O/18-shan-chu-lian-biao-de-jie-dian-lcof.md)
