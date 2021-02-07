@@ -237,3 +237,5 @@
 [18-shan-chu-lian-biao-de-jie-dian-lcof](/O/18-shan-chu-lian-biao-de-jie-dian-lcof.md)
 
 [21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof](/O/21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.md)
+
+[22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof](/O/22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.md)
