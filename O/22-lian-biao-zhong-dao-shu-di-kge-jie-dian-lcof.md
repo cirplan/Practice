@@ -45,7 +45,6 @@ var getKthFromEnd = function(head, k) {
 
 > 复杂度分析
 
-
 时间复杂度：O(N)。
 
 空间复杂度：O(1)。
