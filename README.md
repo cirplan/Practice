@@ -243,3 +243,5 @@
 [24-fan-zhuan-lian-biao-lcof](/O/24-fan-zhuan-lian-biao-lcof.md)
 
 [25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof](/O/25-he-bing-liang-ge-pai-xu-de-lian-biao-lcof.md)
+
+[26-shu-de-zi-jie-gou-lcof](/O/26-shu-de-zi-jie-gou-lcof.md)
