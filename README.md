@@ -247,3 +247,5 @@
 [26-shu-de-zi-jie-gou-lcof](/O/26-shu-de-zi-jie-gou-lcof.md)
 
 [27-er-cha-shu-de-jing-xiang-lcof](/O/27-er-cha-shu-de-jing-xiang-lcof.md)
+
+[29-shun-shi-zhen-da-yin-ju-zhen-lcof](/O/29-shun-shi-zhen-da-yin-ju-zhen-lcof.md)
