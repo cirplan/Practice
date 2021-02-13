@@ -249,3 +249,5 @@
 [27-er-cha-shu-de-jing-xiang-lcof](/O/27-er-cha-shu-de-jing-xiang-lcof.md)
 
 [29-shun-shi-zhen-da-yin-ju-zhen-lcof](/O/29-shun-shi-zhen-da-yin-ju-zhen-lcof.md)
+
+[30-bao-han-minhan-shu-de-zhan-lcof](/O/30-bao-han-minhan-shu-de-zhan-lcof.md)
