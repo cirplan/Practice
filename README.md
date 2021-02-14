@@ -251,3 +251,5 @@
 [29-shun-shi-zhen-da-yin-ju-zhen-lcof](/O/29-shun-shi-zhen-da-yin-ju-zhen-lcof.md)
 
 [30-bao-han-minhan-shu-de-zhan-lcof](/O/30-bao-han-minhan-shu-de-zhan-lcof.md)
+
+[31-zhan-de-ya-ru-dan-chu-xu-lie-lcof](/O/31-zhan-de-ya-ru-dan-chu-xu-lie-lcof.md)
