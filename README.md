@@ -255,3 +255,5 @@
 [31-zhan-de-ya-ru-dan-chu-xu-lie-lcof](/O/31-zhan-de-ya-ru-dan-chu-xu-lie-lcof.md)
 
 [32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof](/O/32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
+
+[33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof](/O/33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
