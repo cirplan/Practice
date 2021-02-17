@@ -257,3 +257,5 @@
 [32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof](/O/32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof.md)
 
 [33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof](/O/33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
+
+[34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof](/O/34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.md)
