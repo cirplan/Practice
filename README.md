@@ -259,3 +259,5 @@
 [33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof](/O/33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof.md)
 
 [34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof](/O/34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.md)
+
+[35-fu-za-lian-biao-de-fu-zhi-lcof](/O/35-fu-za-lian-biao-de-fu-zhi-lcof.md)
