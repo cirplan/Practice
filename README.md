@@ -263,3 +263,5 @@
 [35-fu-za-lian-biao-de-fu-zhi-lcof](/O/35-fu-za-lian-biao-de-fu-zhi-lcof.md)
 
 [36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof](/O/36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.md)
+
+[38-zi-fu-chuan-de-pai-lie-lcof](/O/38-zi-fu-chuan-de-pai-lie-lcof.md)
