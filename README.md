@@ -265,3 +265,5 @@
 [36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof](/O/36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.md)
 
 [38-zi-fu-chuan-de-pai-lie-lcof](/O/38-zi-fu-chuan-de-pai-lie-lcof.md)
+
+[39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof](/O/39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md)
