@@ -267,3 +267,5 @@
 [38-zi-fu-chuan-de-pai-lie-lcof](/O/38-zi-fu-chuan-de-pai-lie-lcof.md)
 
 [39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof](/O/39-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof.md)
+
+[40-zui-xiao-de-kge-shu-lcof](/O/40-zui-xiao-de-kge-shu-lcof.md)
