@@ -271,3 +271,6 @@
 [40-zui-xiao-de-kge-shu-lcof](/O/40-zui-xiao-de-kge-shu-lcof.md)
 
 [42-lian-xu-zi-shu-zu-de-zui-da-he-lcof](/O/42-lian-xu-zi-shu-zu-de-zui-da-he-lcof.md)
+
+[43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof](/O/43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md)
+
