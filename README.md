@@ -274,3 +274,5 @@
 
 [43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof](/O/43-1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof.md)
 
+[45-ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof](/O/45-ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md)
+
