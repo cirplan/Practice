@@ -276,3 +276,5 @@
 
 [45-ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof](/O/45-ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.md)
 
+[49-chou-shu-lcof](/O/49-chou-shu-lcof.md)
+
