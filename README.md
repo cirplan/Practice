@@ -278,3 +278,5 @@
 
 [49-chou-shu-lcof](/O/49-chou-shu-lcof.md)
 
+[50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof](/O/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+
