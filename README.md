@@ -280,3 +280,6 @@
 
 [50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof](/O/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
 
+[50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof](/O/50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md)
+
+[52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof](/O/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
