@@ -285,3 +285,5 @@
 [52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof](/O/52-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.md)
 
 [53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof](/O/53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.md)
+
+[53-ii-que-shi-de-shu-zi-lcof](/O/53-ii-que-shi-de-shu-zi-lcof.md)
