@@ -287,3 +287,5 @@
 [53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof](/O/53-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.md)
 
 [53-ii-que-shi-de-shu-zi-lcof](/O/53-ii-que-shi-de-shu-zi-lcof.md)
+
+[55-er-cha-shu-de-shen-du-lcof](/O/55-er-cha-shu-de-shen-du-lcof.md)
