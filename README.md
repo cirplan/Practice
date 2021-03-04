@@ -289,3 +289,5 @@
 [53-ii-que-shi-de-shu-zi-lcof](/O/53-ii-que-shi-de-shu-zi-lcof.md)
 
 [55-er-cha-shu-de-shen-du-lcof](/O/55-er-cha-shu-de-shen-du-lcof.md)
+
+[55-II-ping-heng-er-cha-shu-lcof](/O/55-II-ping-heng-er-cha-shu-lcof.md)
