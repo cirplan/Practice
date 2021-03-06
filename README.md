@@ -293,3 +293,5 @@
 [55-II-ping-heng-er-cha-shu-lcof](/O/55-II-ping-heng-er-cha-shu-lcof.md)
 
 [56-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof](/O/56-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md)
+
+[57-he-wei-sde-liang-ge-shu-zi-lcof](/O/57-he-wei-sde-liang-ge-shu-zi-lcof.md)
