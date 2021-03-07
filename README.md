@@ -295,3 +295,5 @@
 [56-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof](/O/56-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.md)
 
 [57-he-wei-sde-liang-ge-shu-zi-lcof](/O/57-he-wei-sde-liang-ge-shu-zi-lcof.md)
+
+[57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof](/O/57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.md)
