@@ -299,3 +299,5 @@
 [57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof](/O/57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof.md)
 
 [58-fan-zhuan-dan-ci-shun-xu-lcof](/O/58-fan-zhuan-dan-ci-shun-xu-lcof.md)
+
+[58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof](/O/58-II-zuo-xuan-zhuan-zi-fu-chuan-lcof.md)
