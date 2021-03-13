@@ -307,3 +307,5 @@
 [61-bu-ke-pai-zhong-de-shun-zi-lcof](/O/61-bu-ke-pai-zhong-de-shun-zi-lcof.md)
 
 [62-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof](/O/62-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.md)
+
+[65-bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof](/O/65-bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof.md)
