@@ -160,6 +160,8 @@
 
 [44-wildcard-matching](/dynamic_programming/44-wildcard-matching.md)
 
+[153-maximum-product-subarray](/dynamic_programming/153-maximum-product-subarray.md)
+
 > 回溯
 
 [401-Binary-Watch](/backtracking/401-Binary-Watch.md)
