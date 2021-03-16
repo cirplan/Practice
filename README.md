@@ -198,6 +198,8 @@
 
 [33-Search-in-Rotated-Sorted-Array](/array/33-Search-in-Rotated-Sorted-Array.md)
 
+[31-next-permutation](/array/31-next-permutation.md)
+
 > 字符串
 
 [38-Count-and-Say](/string/38-Count-and-Say.md)
