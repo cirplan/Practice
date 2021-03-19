@@ -322,3 +322,5 @@
 
 [1-is-unique-lcci](/S/1-is-unique-lcci.md)
 
+[2-check-permutation-lcci](/S/2-check-permutation-lcci.md)
+
