@@ -324,3 +324,5 @@
 
 [2-check-permutation-lcci](/S/2-check-permutation-lcci.md)
 
+[3-string-to-url-lcci](/S/3-string-to-url-lcci.md)
+
