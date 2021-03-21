@@ -326,3 +326,5 @@
 
 [3-string-to-url-lcci](/S/3-string-to-url-lcci.md)
 
+[4-palindrome-permutation-lcci](/S/4-palindrome-permutation-lcci.md)
+
