@@ -328,3 +328,5 @@
 
 [4-palindrome-permutation-lcci](/S/4-palindrome-permutation-lcci.md)
 
+[5-one-away-lcci](/S/5-one-away-lcci.md)
+
