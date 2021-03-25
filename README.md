@@ -333,3 +333,5 @@
 [6-compress-string-lcci](/S/6-compress-string-lcci.md)
 
 [7-rotate-matrix-lcci](/S/7-rotate-matrix-lcci.md)
+
+[8-zero-matrix-lcci](/S/8-zero-matrix-lcci.md)
