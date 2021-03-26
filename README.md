@@ -335,3 +335,5 @@
 [7-rotate-matrix-lcci](/S/7-rotate-matrix-lcci.md)
 
 [8-zero-matrix-lcci](/S/8-zero-matrix-lcci.md)
+
+[9-string-rotation-lcci](/S/9-string-rotation-lcci.md)
