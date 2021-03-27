@@ -337,3 +337,6 @@
 [8-zero-matrix-lcci](/S/8-zero-matrix-lcci.md)
 
 [9-string-rotation-lcci](/S/9-string-rotation-lcci.md)
+
+[02.01-remove-duplicate-node-lcci](/S/02.01-remove-duplicate-node-lcci.md)
+
