@@ -340,3 +340,5 @@
 
 [02.01-remove-duplicate-node-lcci](/S/02.01-remove-duplicate-node-lcci.md)
 
+[02.02-kth-node-from-end-of-list-lcci](/S/02.02-kth-node-from-end-of-list-lcci.md)
+
