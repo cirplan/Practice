@@ -351,3 +351,5 @@
 [206-reverse-linked-list](/codetop/206-reverse-linked-list.md)
 
 [215-kth-largest-element-in-an-array](/codetop/215-kth-largest-element-in-an-array.md)
+
+[146-lru-cache](/codetop/146-lru-cache.md)
