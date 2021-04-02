@@ -353,3 +353,5 @@
 [215-kth-largest-element-in-an-array](/codetop/215-kth-largest-element-in-an-array.md)
 
 [146-lru-cache](/codetop/146-lru-cache.md)
+
+[160-intersection-of-two-linked-lists](/codetop/160-intersection-of-two-linked-lists.md)
