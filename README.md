@@ -361,3 +361,5 @@
 [165-compare-version-numbers](/codetop/165-compare-version-numbers.md)
 
 [112-path-sum](/codetop/112-path-sum.md)
+
+[6-zigzag-conversion](/codetop/6-zigzag-conversion.md)
