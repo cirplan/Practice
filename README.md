@@ -364,4 +364,6 @@
 
 [6-zigzag-conversion](/codetop/6-zigzag-conversion.md)
 
-[12-integer-to-roman](/codetop/12-integer-to-roman.md)
+[50-powx-n](/codetop/50-powx-n.md)
+
+
