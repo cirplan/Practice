@@ -372,3 +372,4 @@
 
 [19-remove-nth-node-from-end-of-list](/codetop/19-remove-nth-node-from-end-of-list.md)
 
+[22-generate-parentheses](/codetop/22-generate-parentheses.md)
