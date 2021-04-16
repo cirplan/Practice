@@ -377,3 +377,5 @@
 [27-remove-element](/codetop/27-remove-element.md)
 
 [28-implement-strstr](/codetop/28-implement-strstr.md)
+
+[66-plus-one](/codetop/66-plus-one.md)
