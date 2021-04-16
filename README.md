@@ -374,4 +374,6 @@
 
 [22-generate-parentheses](/codetop/22-generate-parentheses.md)
 
-[27-remove-element/](/codetop/27-remove-element.md)
+[27-remove-element](/codetop/27-remove-element.md)
+
+[28-implement-strstr](/codetop/28-implement-strstr.md)
