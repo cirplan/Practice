@@ -381,3 +381,5 @@
 [66-plus-one](/codetop/66-plus-one.md)
 
 [101-symmetric-tree](/codetop/101-symmetric-tree.md)
+
+[105-construct-binary-tree-from-preorder-and-inorder-traversal](/codetop/105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
