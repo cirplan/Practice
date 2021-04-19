@@ -383,3 +383,5 @@
 [101-symmetric-tree](/codetop/101-symmetric-tree.md)
 
 [105-construct-binary-tree-from-preorder-and-inorder-traversal](/codetop/105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+
+[125-valid-palindrome](/codetop/125-valid-palindrome.md)
