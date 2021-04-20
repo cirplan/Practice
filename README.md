@@ -385,3 +385,5 @@
 [105-construct-binary-tree-from-preorder-and-inorder-traversal](/codetop/105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 
 [125-valid-palindrome](/codetop/125-valid-palindrome.md)
+
+[118-pascals-triangle](/codetop/118-pascals-triangle.md)
