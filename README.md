@@ -387,3 +387,5 @@
 [125-valid-palindrome](/codetop/125-valid-palindrome.md)
 
 [118-pascals-triangle](/codetop/118-pascals-triangle.md)
+
+[387-first-unique-character-in-a-string](/codetop/387-first-unique-character-in-a-string.md)
