@@ -400,4 +400,6 @@
 
 [617-merge-two-binary-trees](/codetop/617-merge-two-binary-trees.md)
 
+[543-diameter-of-binary-tree](/codetop/543-diameter-of-binary-tree.md)
+
 
