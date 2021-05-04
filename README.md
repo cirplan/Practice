@@ -412,4 +412,6 @@
 
 [139-word-break](/codetop/139-word-break.md)
 
+[114-flatten-binary-tree-to-linked-list](/codetop/114-flatten-binary-tree-to-linked-list.md)
+
 
