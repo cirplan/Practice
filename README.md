@@ -414,4 +414,6 @@
 
 [114-flatten-binary-tree-to-linked-list](/codetop/114-flatten-binary-tree-to-linked-list.md)
 
+[34-find-first-and-last-position-of-element-in-sorted-array](/codetop/34-find-first-and-last-position-of-element-in-sorted-array.md)
+
 
