@@ -421,3 +421,7 @@
 [581-shortest-unsorted-continuous-subarray](/codetop/581-shortest-unsorted-continuous-subarray.md)
 
 [350-intersection-of-two-arrays-ii](/codetop/350-intersection-of-two-arrays-ii.md)
+
+[771-jewels-and-stones](/codetop/771-jewels-and-stones.md)
+
+
