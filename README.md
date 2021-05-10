@@ -424,4 +424,6 @@
 
 [771-jewels-and-stones](/codetop/771-jewels-and-stones.md)
 
+[1431-kids-with-the-greatest-number-of-candies](/codetop/1431-kids-with-the-greatest-number-of-candies.md)
+
 
