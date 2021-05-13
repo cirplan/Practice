@@ -430,4 +430,6 @@
 
 [77-combinations](/codetop/77-combinations.md)
 
+[300-longest-increasing-subsequence](/codetop/300-longest-increasing-subsequence.md)
+
 
