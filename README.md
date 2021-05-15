@@ -434,3 +434,7 @@
 
 [560-subarray-sum-equals-k](/codetop/560-subarray-sum-equals-k.md)
 
+[560-subarray-sum-equals-k](/codetop/560-subarray-sum-equals-k.md)
+
+[198-house-robber](/codetop/198-house-robber.md)
+
