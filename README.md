@@ -438,3 +438,5 @@
 
 [198-house-robber](/codetop/198-house-robber.md)
 
+[287-find-the-duplicate-number](/codetop/287-find-the-duplicate-number.md)
+
