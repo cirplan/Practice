@@ -440,3 +440,6 @@
 
 [287-find-the-duplicate-number](/codetop/287-find-the-duplicate-number.md)
 
+> 202105
+
+[704-binary-search](/202105/704-binary-search.md)
