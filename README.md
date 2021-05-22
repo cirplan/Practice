@@ -452,3 +452,5 @@
 
 [79-word-search](/202105/79-word-search.md)
 
+[1480-running-sum-of-1d-array](/202105/1480-running-sum-of-1d-array.md)
+
