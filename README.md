@@ -454,3 +454,5 @@
 
 [1480-running-sum-of-1d-array](/202105/1480-running-sum-of-1d-array.md)
 
+[739-daily-temperatures](/202105/739-daily-temperatures.md)
+
