@@ -456,3 +456,7 @@
 
 [739-daily-temperatures](/202105/739-daily-temperatures.md)
 
+[494-target-sum](/202105/494-target-sum.md)
+
+
+
