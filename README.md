@@ -460,5 +460,7 @@
 
 [219-contains-duplicate-ii](/202105/219-contains-duplicate-ii.md)
 
+[205-isomorphic-strings](/202105/205-isomorphic-strings.md)
+
 
 
