@@ -462,5 +462,7 @@
 
 [205-isomorphic-strings](/202105/205-isomorphic-strings.md)
 
+[204-count-primes](/202105/204-count-primes.md)
+
 
 
