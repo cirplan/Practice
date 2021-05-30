@@ -468,5 +468,7 @@
 
 [389-find-the-difference](/202105/389-find-the-difference.md)
 
+[459-repeated-substring-pattern](/202105/459-repeated-substring-pattern.md)
+
 
 
