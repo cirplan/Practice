@@ -477,3 +477,5 @@
 [1854-maximum-population-year](/202106/1854-maximum-population-year.md)
 
 [485-max-consecutive-ones](/202106/485-max-consecutive-ones.md)
+
+[119-pascals-triangle-ii](/202106/119-pascals-triangle-ii.md)
