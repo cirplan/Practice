@@ -479,3 +479,5 @@
 [485-max-consecutive-ones](/202106/485-max-consecutive-ones.md)
 
 [119-pascals-triangle-ii](/202106/119-pascals-triangle-ii.md)
+
+[1869-longer-contiguous-segments-of-ones-than-zeros](/202106/1869-longer-contiguous-segments-of-ones-than-zeros.md)
