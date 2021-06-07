@@ -485,3 +485,5 @@
 [203-remove-linked-list-elements](/202106/203-remove-linked-list-elements.md)
 
 [474-ones-and-zeroes](/202106/474-ones-and-zeroes.md)
+
+[525-contiguous-array](/202106/525-contiguous-array.md)
