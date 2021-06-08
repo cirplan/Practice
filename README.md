@@ -487,3 +487,5 @@
 [474-ones-and-zeroes](/202106/474-ones-and-zeroes.md)
 
 [525-contiguous-array](/202106/525-contiguous-array.md)
+
+[1049-last-stone-weight-ii](/202106/1049-last-stone-weight-ii.md)
