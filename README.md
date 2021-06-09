@@ -489,3 +489,5 @@
 [525-contiguous-array](/202106/525-contiguous-array.md)
 
 [1049-last-stone-weight-ii](/202106/1049-last-stone-weight-ii.md)
+
+[879-profitable-schemes](/202106/879-profitable-schemes.md)
