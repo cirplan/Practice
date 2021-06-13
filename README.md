@@ -497,3 +497,5 @@
 [523-continuous-subarray-sum](/202106/523-continuous-subarray-sum.md)
 
 [1449-form-largest-integer-with-digits-that-add-up-to-target](/202106/1449-form-largest-integer-with-digits-that-add-up-to-target.md)
+
+[278-first-bad-version](/202106/278-first-bad-version.md)
