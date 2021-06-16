@@ -503,3 +503,5 @@
 [374-guess-number-higher-or-lower](/202106/374-guess-number-higher-or-lower.md)
 
 [852-peak-index-in-a-mountain-array](/202106/852-peak-index-in-a-mountain-array.md)
+
+[877-stone-game](/202106/877-stone-game.md)
