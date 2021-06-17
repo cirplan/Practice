@@ -505,3 +505,5 @@
 [852-peak-index-in-a-mountain-array](/202106/852-peak-index-in-a-mountain-array.md)
 
 [877-stone-game](/202106/877-stone-game.md)
+
+[1672-richest-customer-wealth](/202106/1672-richest-customer-wealth.md)
