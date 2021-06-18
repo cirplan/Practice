@@ -507,3 +507,6 @@
 [877-stone-game](/202106/877-stone-game.md)
 
 [1672-richest-customer-wealth](/202106/1672-richest-customer-wealth.md)
+
+[1282-subtract-the-product-and-sum-of-digits-of-an-integer](/202106/1282-subtract-the-product-and-sum-of-digits-of-an-integer.md)
+
