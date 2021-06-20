@@ -512,3 +512,5 @@
 
 [1239-maximum-length-of-a-concatenated-string-with-unique-characters](/202106/1239-maximum-length-of-a-concatenated-string-with-unique-characters.md)
 
+[1600-throne-inheritance](/202106/1600-throne-inheritance.md)
+
