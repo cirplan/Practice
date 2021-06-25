@@ -522,3 +522,5 @@
 
 [24-swap-nodes-in-pairs](/202106/24-swap-nodes-in-pairs.md)
 
+[752-open-the-lock](/202106/752-open-the-lock.md)
+
