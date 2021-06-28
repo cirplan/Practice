@@ -528,3 +528,5 @@
 
 [108-convert-sorted-array-to-binary-search-tree](/202106/108-convert-sorted-array-to-binary-search-tree.md)
 
+[48-rotate-image](/202106/48-rotate-image.md)
+
