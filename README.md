@@ -539,3 +539,5 @@
 [LCP07-chuan-di-xin-xi](/202107/LCP07-chuan-di-xin-xi.md)
 
 [451-sort-characters-by-frequency](/202107/451-sort-characters-by-frequency.md)
+
+[172-factorial-trailing-zeroes](/202107/172-factorial-trailing-zeroes.md)
