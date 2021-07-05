@@ -543,3 +543,5 @@
 [172-factorial-trailing-zeroes](/202107/172-factorial-trailing-zeroes.md)
 
 [645-set-mismatch](/202107/645-set-mismatch.md)
+
+[228-summary-ranges](/202107/228-summary-ranges.md)
