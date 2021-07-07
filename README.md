@@ -547,3 +547,5 @@
 [228-summary-ranges](/202107/228-summary-ranges.md)
 
 [201-bitwise-and-of-numbers-range](/202107/201-bitwise-and-of-numbers-range.md)
+
+[1711-count-good-meals](/202107/1711-count-good-meals.md)
