@@ -549,3 +549,5 @@
 [201-bitwise-and-of-numbers-range](/202107/201-bitwise-and-of-numbers-range.md)
 
 [1711-count-good-meals](/202107/1711-count-good-meals.md)
+
+[930-binary-subarrays-with-sum](/202107/930-binary-subarrays-with-sum.md)
