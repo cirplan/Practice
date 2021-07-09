@@ -551,3 +551,5 @@
 [1711-count-good-meals](/202107/1711-count-good-meals.md)
 
 [930-binary-subarrays-with-sum](/202107/930-binary-subarrays-with-sum.md)
+
+[17.10-find-majority-element-lcci](/202107/17.10-find-majority-element-lcci.md)
