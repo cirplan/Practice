@@ -555,3 +555,5 @@
 [17.10-find-majority-element-lcci](/202107/17.10-find-majority-element-lcci.md)
 
 [981-time-based-key-value-store](/202107/981-time-based-key-value-store.md)
+
+[274-h-index](/202107/274-h-index.md)
