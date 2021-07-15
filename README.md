@@ -563,3 +563,5 @@
 [143-reorder-list](/202107/143-reorder-list.md)
 
 [191-number-of-1-bits](/202107/191-number-of-1-bits.md)
+
+[257-binary-tree-paths](/202107/257-binary-tree-paths.md)
