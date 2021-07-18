@@ -569,3 +569,5 @@
 [404-sum-of-left-leaves](/202107/404-sum-of-left-leaves.md)
 
 [268-missing-number](/202107/268-missing-number.md)
+
+[414-third-maximum-number](/202107/414-third-maximum-number.md)
