@@ -571,3 +571,5 @@
 [268-missing-number](/202107/268-missing-number.md)
 
 [414-third-maximum-number](/202107/414-third-maximum-number.md)
+
+[290-word-pattern](/202107/290-word-pattern.md)
